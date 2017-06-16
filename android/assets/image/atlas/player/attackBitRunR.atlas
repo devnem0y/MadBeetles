@@ -1,0 +1,33 @@
+
+attackBitRunR.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame
+  rotate: false
+  xy: 2, 2
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: 0
+frame
+  rotate: false
+  xy: 356, 2
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: 1
+frame
+  rotate: false
+  xy: 710, 2
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: 2
+frame
+  rotate: false
+  xy: 1064, 2
+  size: 352, 352
+  orig: 352, 352
+  offset: 0, 0
+  index: 3

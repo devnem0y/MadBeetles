@@ -1,0 +1,61 @@
+
+buttons_menu.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+playDown
+  rotate: false
+  xy: 2, 240
+  size: 333, 378
+  orig: 333, 378
+  offset: 0, 0
+  index: -1
+playUp
+  rotate: false
+  xy: 337, 240
+  size: 333, 378
+  orig: 333, 378
+  offset: 0, 0
+  index: -1
+nextDown
+  rotate: false
+  xy: 672, 415
+  size: 206, 203
+  orig: 206, 203
+  offset: 0, 0
+  index: -1
+nextUp
+  rotate: false
+  xy: 672, 210
+  size: 206, 203
+  orig: 206, 203
+  offset: 0, 0
+  index: -1
+restartDown
+  rotate: false
+  xy: 2, 31
+  size: 204, 207
+  orig: 204, 207
+  offset: 0, 0
+  index: -1
+restartUp
+  rotate: false
+  xy: 208, 31
+  size: 204, 207
+  orig: 204, 207
+  offset: 0, 0
+  index: -1
+exitDown
+  rotate: false
+  xy: 414, 32
+  size: 201, 206
+  orig: 201, 206
+  offset: 0, 0
+  index: -1
+exitUp
+  rotate: false
+  xy: 617, 2
+  size: 201, 206
+  orig: 201, 206
+  offset: 0, 0
+  index: -1

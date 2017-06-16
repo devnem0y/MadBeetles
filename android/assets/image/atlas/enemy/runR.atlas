@@ -1,0 +1,33 @@
+
+runR.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame
+  rotate: false
+  xy: 2, 2
+  size: 276, 227
+  orig: 276, 227
+  offset: 0, 0
+  index: 0
+frame
+  rotate: false
+  xy: 280, 2
+  size: 276, 227
+  orig: 276, 227
+  offset: 0, 0
+  index: 1
+frame
+  rotate: false
+  xy: 558, 2
+  size: 276, 227
+  orig: 276, 227
+  offset: 0, 0
+  index: 2
+frame
+  rotate: false
+  xy: 836, 2
+  size: 276, 227
+  orig: 276, 227
+  offset: 0, 0
+  index: 3

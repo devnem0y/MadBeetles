@@ -1,0 +1,33 @@
+
+btnAttack.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bitDown
+  rotate: false
+  xy: 2, 2
+  size: 371, 341
+  orig: 371, 341
+  offset: 0, 0
+  index: -1
+bitUp
+  rotate: false
+  xy: 375, 2
+  size: 371, 341
+  orig: 371, 341
+  offset: 0, 0
+  index: -1
+shotgunDown
+  rotate: false
+  xy: 748, 2
+  size: 364, 341
+  orig: 364, 341
+  offset: 0, 0
+  index: -1
+shotgunUp
+  rotate: false
+  xy: 1114, 2
+  size: 364, 341
+  orig: 364, 341
+  offset: 0, 0
+  index: -1

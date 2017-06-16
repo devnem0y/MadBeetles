@@ -1,0 +1,19 @@
+
+death.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame
+  rotate: false
+  xy: 2, 2
+  size: 319, 191
+  orig: 319, 191
+  offset: 0, 0
+  index: 0
+frame
+  rotate: false
+  xy: 323, 2
+  size: 319, 191
+  orig: 319, 191
+  offset: 0, 0
+  index: 1

@@ -1,0 +1,103 @@
+
+enemy.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame1
+  rotate: false
+  xy: 2, 231
+  size: 276, 227
+  orig: 276, 227
+  offset: 0, 0
+  index: -1
+frame1left
+  rotate: false
+  xy: 2, 2
+  size: 276, 227
+  orig: 276, 227
+  offset: 0, 0
+  index: -1
+frame2
+  rotate: false
+  xy: 280, 231
+  size: 276, 227
+  orig: 276, 227
+  offset: 0, 0
+  index: -1
+frame2left
+  rotate: false
+  xy: 280, 2
+  size: 276, 227
+  orig: 276, 227
+  offset: 0, 0
+  index: -1
+frame3
+  rotate: false
+  xy: 558, 231
+  size: 276, 227
+  orig: 276, 227
+  offset: 0, 0
+  index: -1
+frame3left
+  rotate: false
+  xy: 558, 2
+  size: 276, 227
+  orig: 276, 227
+  offset: 0, 0
+  index: -1
+frame4
+  rotate: false
+  xy: 836, 231
+  size: 276, 227
+  orig: 276, 227
+  offset: 0, 0
+  index: -1
+frame4left
+  rotate: false
+  xy: 836, 2
+  size: 276, 227
+  orig: 276, 227
+  offset: 0, 0
+  index: -1
+frame10
+  rotate: false
+  xy: 1114, 388
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+frame5
+  rotate: false
+  xy: 1114, 316
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+frame6
+  rotate: false
+  xy: 1114, 244
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+frame7
+  rotate: false
+  xy: 1114, 172
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+frame8
+  rotate: false
+  xy: 1114, 100
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+frame9
+  rotate: false
+  xy: 1114, 28
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1

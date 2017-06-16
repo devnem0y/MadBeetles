@@ -1,0 +1,19 @@
+
+joystick.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touchBackground
+  rotate: false
+  xy: 2, 2
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+touchKnob
+  rotate: false
+  xy: 155, 99
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1

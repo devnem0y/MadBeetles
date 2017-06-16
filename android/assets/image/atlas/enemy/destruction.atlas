@@ -1,0 +1,47 @@
+
+destruction.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame
+  rotate: false
+  xy: 2, 587
+  size: 583, 583
+  orig: 583, 583
+  offset: 0, 0
+  index: 0
+frame
+  rotate: false
+  xy: 2, 2
+  size: 583, 583
+  orig: 583, 583
+  offset: 0, 0
+  index: 1
+frame
+  rotate: false
+  xy: 587, 587
+  size: 583, 583
+  orig: 583, 583
+  offset: 0, 0
+  index: 2
+frame
+  rotate: false
+  xy: 587, 2
+  size: 583, 583
+  orig: 583, 583
+  offset: 0, 0
+  index: 3
+frame
+  rotate: false
+  xy: 1172, 587
+  size: 583, 583
+  orig: 583, 583
+  offset: 0, 0
+  index: 4
+frame
+  rotate: false
+  xy: 1172, 2
+  size: 583, 583
+  orig: 583, 583
+  offset: 0, 0
+  index: 5

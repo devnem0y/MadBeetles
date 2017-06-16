@@ -1,0 +1,61 @@
+
+soundBtn.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+soundOffDown
+  rotate: false
+  xy: 2, 229
+  size: 303, 225
+  orig: 303, 225
+  offset: 0, 0
+  index: -1
+soundOffUp
+  rotate: false
+  xy: 2, 2
+  size: 303, 225
+  orig: 303, 225
+  offset: 0, 0
+  index: -1
+musicOffDown
+  rotate: false
+  xy: 307, 229
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+musicOffUp
+  rotate: false
+  xy: 307, 2
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+musicOnDown
+  rotate: false
+  xy: 609, 229
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+musicOnUp
+  rotate: false
+  xy: 609, 2
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+soundOnDown
+  rotate: false
+  xy: 911, 229
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
+soundOnUp
+  rotate: false
+  xy: 911, 2
+  size: 300, 225
+  orig: 300, 225
+  offset: 0, 0
+  index: -1
